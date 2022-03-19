@@ -1,0 +1,2 @@
+# http://www.behnazedalatdoost.ir/robotstxt.html
+User-agent: *
